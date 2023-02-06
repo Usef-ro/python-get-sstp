@@ -34,7 +34,7 @@ Use This Library
 ```
 
 - Text
-app give you vpn.txt 
+App give you vpn.txt 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
