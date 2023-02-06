@@ -27,6 +27,15 @@ Use This Library
 
 - Run Vpn Or Use [Tor](https://github.com/TheTorProject/gettorbrowser)
 
+
+- In CMD
+```python
+    python p4.py
+```
+
+-Text
+Give You one vpn.txt 
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
